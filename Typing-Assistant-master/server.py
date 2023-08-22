@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct 26 16:54:56 2017
-
-@author: VARUN
 """
 
 from flask import Flask, render_template, jsonify,request
