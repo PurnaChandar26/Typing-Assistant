@@ -1,10 +1,6 @@
-Typing Assistant
-================
+# Typing Assistant
 
 
-
-Overview
---------
 
 The primary goal of the Typing Assistant is to demonstrate how language models can be used to predict the next words in a sentence, providing users with potential word choices as they type. This can be particularly useful for enhancing typing speed and accuracy, and it showcases the basic principles of natural language processing.
 
