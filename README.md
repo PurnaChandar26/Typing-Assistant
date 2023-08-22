@@ -22,13 +22,7 @@ How It Works
 5.  The user can choose from suggested words to complete their sentences.
 
 Getting Started
----------------
-
-1.  Clone this repository to your local machine.
-2.  Make sure you have Python installed.
-3.  Install the required dependencies using `pip install -r requirements.txt`.
-4.  Run the application using `python app.py`.
-5.  Access the application in your web browser at `http://127.0.0.1:5000/test`.
+---
 
 Usage
 -----
