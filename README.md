@@ -1,7 +1,7 @@
 Typing Assistant
 ================
 
-The Typing Assistant is a Python web application built using the Flask framework that serves as a simple text prediction tool. This tool utilizes bigram and trigram language models to offer predictive suggestions for completing sentences based on user input.
+
 
 Overview
 --------
